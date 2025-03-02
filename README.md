@@ -4,8 +4,11 @@ This template should help get you started developing with Tauri, React and Types
 
 ## Recommended IDE Setup
 
+**Install**
 `pnpm i`
-`pnpm taurid ev`
+
+**Start the server**
+`pnpm tauri dev`
 
 Link to Presentation Video: https://youtu.be/3L2MtzIpbLI?t=4531
 
