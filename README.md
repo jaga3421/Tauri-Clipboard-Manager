@@ -1,2 +1,7 @@
-# Tauri-Clipboard-Manager
-Sample Tauri app demo'ed at Chennai React | Marc 1
+# Tauri + React + Typescript
+
+This template should help get you started developing with Tauri, React and Typescript in Vite.
+
+## Recommended IDE Setup
+
+`pnpm i
